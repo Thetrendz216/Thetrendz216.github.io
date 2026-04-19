@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on The Trendz</title>
-    <link>https://thetrendz216.github.io/posts/</link>
-    <description>Recent content in Posts on The Trendz</description>
+    <title>Online Income on The Trendz</title>
+    <link>https://thetrendz216.github.io/tags/online-income/</link>
+    <description>Recent content in Online Income on The Trendz</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thetrendz216.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thetrendz216.github.io/tags/online-income/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5 Ways to Make Money Online in 2026</title>
       <link>https://thetrendz216.github.io/posts/make-money-online/</link>
@@ -36,22 +36,6 @@ Write about topics like finance, tech, or personal experiences.&lt;/p&gt;
 &lt;li&gt;Web development&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;👉 Sites like Fiverr and Upwork can help you start.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Welcome to The Trendz</title>
-      <link>https://thetrendz216.github.io/posts/my-first-post.md/my-first-post/</link>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/posts/my-first-post.md/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;hello-world-&#34;&gt;Hello World! 👋&lt;/h1&gt;
-&lt;p&gt;Welcome to &lt;strong&gt;The Trendz&lt;/strong&gt; — your source for trending news, tech, and money ideas.&lt;/p&gt;
-&lt;p&gt;We will be sharing:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;💻 Technology&lt;/li&gt;
-&lt;li&gt;💰 Making money online&lt;/li&gt;
-&lt;li&gt;📈 Business ideas&lt;/li&gt;
-&lt;li&gt;🌍 Trending news&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Stay tuned for more content!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
