@@ -1,44 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI Tools on The Trendz</title>
-    <link>https://thetrendz216.github.io/tags/ai-tools/</link>
-    <description>Recent content in AI Tools on The Trendz</description>
+    <title>AI Tools on </title>
+    <link>/tags/ai-tools/</link>
+    <description>Recent content in AI Tools on </description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sun, 19 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thetrendz216.github.io/tags/ai-tools/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/ai-tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Best AI Tools to Use in 2026</title>
-      <link>https://thetrendz216.github.io/posts/ai-tools-2026/</link>
+      <link>/posts/ai-tools-2026/</link>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/posts/ai-tools-2026/</guid>
-      <description>&lt;h2 id=&#34;-introduction&#34;&gt;🚀 Introduction&lt;/h2&gt;
-&lt;p&gt;Artificial Intelligence is transforming how we work, create, and learn in 2026.&lt;br&gt;
-Here are the most powerful AI tools you should start using today.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;1-chatgpt&#34;&gt;1. ChatGPT&lt;/h2&gt;
-&lt;p&gt;The most popular AI tool for:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Writing content&lt;/li&gt;
-&lt;li&gt;Coding assistance&lt;/li&gt;
-&lt;li&gt;Problem solving&lt;/li&gt;
-&lt;li&gt;Learning new skills&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Perfect for beginners and professionals.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;2-claude-ai&#34;&gt;2. Claude AI&lt;/h2&gt;
-&lt;p&gt;Great for:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Long-form writing&lt;/li&gt;
-&lt;li&gt;Deep analysis&lt;/li&gt;
-&lt;li&gt;Research summaries&lt;/li&gt;
-&lt;li&gt;Creative thinking&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;It handles complex tasks very well.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;3-midjourney&#34;&gt;3. Midjourney&lt;/h2&gt;
-&lt;p&gt;A powerful AI image generator that creates stunning visuals from text prompts.&lt;/p&gt;</description>
+      <guid>/posts/ai-tools-2026/</guid>
+      <description>&lt;h2 id=&#34;-introduction&#34;&gt;🚀 Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Artificial Intelligence is transforming how we work, create, and learn in 2026.&lt;br&gt;&#xA;Here are the most powerful AI tools you should start using today.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-chatgpt&#34;&gt;1. ChatGPT&lt;/h2&gt;&#xA;&lt;p&gt;The most popular AI tool for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Writing content&lt;/li&gt;&#xA;&lt;li&gt;Coding assistance&lt;/li&gt;&#xA;&lt;li&gt;Problem solving&lt;/li&gt;&#xA;&lt;li&gt;Learning new skills&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Perfect for beginners and professionals.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-claude-ai&#34;&gt;2. Claude AI&lt;/h2&gt;&#xA;&lt;p&gt;Great for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Long-form writing&lt;/li&gt;&#xA;&lt;li&gt;Deep analysis&lt;/li&gt;&#xA;&lt;li&gt;Research summaries&lt;/li&gt;&#xA;&lt;li&gt;Creative thinking&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;It handles complex tasks very well.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;3-midjourney&#34;&gt;3. Midjourney&lt;/h2&gt;&#xA;&lt;p&gt;A powerful AI image generator that creates stunning visuals from text prompts.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

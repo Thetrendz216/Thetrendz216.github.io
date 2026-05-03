@@ -1,392 +1,117 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI on The Trendz</title>
-    <link>https://thetrendz216.github.io/categories/ai/</link>
-    <description>Recent content in AI on The Trendz</description>
+    <title>AI on </title>
+    <link>/categories/ai/</link>
+    <description>Recent content in AI on </description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thetrendz216.github.io/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Tutors Transforming Education: How AI Teachers Are Reaching African Students</title>
-      <link>https://thetrendz216.github.io/posts/ai-education-africa/</link>
+      <link>/posts/ai-education-africa/</link>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/posts/ai-education-africa/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;AI Tutors&#34; loading=&#34;lazy&#34; src=&#34;https://picsum.photos/seed/aiteachers/800/400&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Artificial intelligence powered tutoring
-systems are transforming education across
-Africa in 2026 providing personalized
-instruction to millions of students who
-lack access to quality teachers. The
-combination of AI&amp;rsquo;s ability to adapt
-to individual learning needs its
-availability 24/7 and its dramatically
-lower cost than human tutors makes
-AI education particularly transformative
-in African contexts where teacher shortages
-and quality challenges are severe.&lt;/p&gt;
-&lt;h2 id=&#34;how-ai-tutors-work&#34;&gt;How AI Tutors Work&lt;/h2&gt;
-&lt;p&gt;AI tutoring systems use large language
-models to conduct conversations with
-students that approximate the experience
-of tutoring from a human teacher. The
-system presents problems asks questions
-listens to student responses evaluates
-understanding and adjusts future explanations
-based on demonstrated mastery.&lt;/p&gt;</description>
+      <guid>/posts/ai-education-africa/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://picsum.photos/seed/aiteachers/800/400&#34; alt=&#34;AI Tutors&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Artificial intelligence powered tutoring&#xA;systems are transforming education across&#xA;Africa in 2026 providing personalized&#xA;instruction to millions of students who&#xA;lack access to quality teachers. The&#xA;combination of AI&amp;rsquo;s ability to adapt&#xA;to individual learning needs its&#xA;availability 24/7 and its dramatically&#xA;lower cost than human tutors makes&#xA;AI education particularly transformative&#xA;in African contexts where teacher shortages&#xA;and quality challenges are severe.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-ai-tutors-work&#34;&gt;How AI Tutors Work&lt;/h2&gt;&#xA;&lt;p&gt;AI tutoring systems use large language&#xA;models to conduct conversations with&#xA;students that approximate the experience&#xA;of tutoring from a human teacher. The&#xA;system presents problems asks questions&#xA;listens to student responses evaluates&#xA;understanding and adjusts future explanations&#xA;based on demonstrated mastery.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic&#39;s Claude AI Gets Major Upgrade: Everything New in 2026</title>
-      <link>https://thetrendz216.github.io/posts/anthropic-claude-update/</link>
+      <link>/posts/anthropic-claude-update/</link>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/posts/anthropic-claude-update/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Claude AI&#34; loading=&#34;lazy&#34; src=&#34;https://picsum.photos/seed/anthropicai/800/400&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic has released significant upgrades
-to its Claude AI assistant making it
-one of the most capable and widely
-used AI tools in 2026. The company
-founded by former OpenAI researchers
-with a specific focus on AI safety
-has carved out a distinctive market
-position by combining frontier AI capabilities
-with a stronger emphasis on reliability
-safety and honesty than some competitors.&lt;/p&gt;
-&lt;p&gt;Claude has become the preferred AI
-assistant for many professionals writers
-researchers and businesses who value
-its nuanced responses long context
-handling and tendency to acknowledge
-uncertainty rather than confabulate
-confident sounding incorrect answers.&lt;/p&gt;</description>
+      <guid>/posts/anthropic-claude-update/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://picsum.photos/seed/anthropicai/800/400&#34; alt=&#34;Claude AI&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Anthropic has released significant upgrades&#xA;to its Claude AI assistant making it&#xA;one of the most capable and widely&#xA;used AI tools in 2026. The company&#xA;founded by former OpenAI researchers&#xA;with a specific focus on AI safety&#xA;has carved out a distinctive market&#xA;position by combining frontier AI capabilities&#xA;with a stronger emphasis on reliability&#xA;safety and honesty than some competitors.&lt;/p&gt;&#xA;&lt;p&gt;Claude has become the preferred AI&#xA;assistant for many professionals writers&#xA;researchers and businesses who value&#xA;its nuanced responses long context&#xA;handling and tendency to acknowledge&#xA;uncertainty rather than confabulate&#xA;confident sounding incorrect answers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Neural Networks Explained: How AI Brains Work and Why They Matter to Africa</title>
-      <link>https://thetrendz216.github.io/posts/neural-networks-africa/</link>
+      <link>/posts/neural-networks-africa/</link>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/posts/neural-networks-africa/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Neural Networks&#34; loading=&#34;lazy&#34; src=&#34;https://picsum.photos/seed/ainetworks/800/400&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Neural networks the mathematical structures
-that underpin modern artificial intelligence
-are becoming as fundamental to technology
-in 2026 as semiconductors and internet
-protocols are. Understanding how neural
-networks work what they can and cannot
-do and how they are applied to real
-problems is increasingly important for
-anyone trying to understand contemporary
-technology.&lt;/p&gt;
-&lt;p&gt;For Africans the practical question is
-not just how neural networks work but
-how they can be built trained and applied
-to solve African problems in ways that
-create value for African people and economies.&lt;/p&gt;</description>
+      <guid>/posts/neural-networks-africa/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://picsum.photos/seed/ainetworks/800/400&#34; alt=&#34;Neural Networks&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Neural networks the mathematical structures&#xA;that underpin modern artificial intelligence&#xA;are becoming as fundamental to technology&#xA;in 2026 as semiconductors and internet&#xA;protocols are. Understanding how neural&#xA;networks work what they can and cannot&#xA;do and how they are applied to real&#xA;problems is increasingly important for&#xA;anyone trying to understand contemporary&#xA;technology.&lt;/p&gt;&#xA;&lt;p&gt;For Africans the practical question is&#xA;not just how neural networks work but&#xA;how they can be built trained and applied&#xA;to solve African problems in ways that&#xA;create value for African people and economies.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NVIDIA&#39;s AI Chips Are Powering the Future: What Investors Need to Know</title>
-      <link>https://thetrendz216.github.io/posts/nvidia-ai-chips-2026/</link>
+      <link>/posts/nvidia-ai-chips-2026/</link>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/posts/nvidia-ai-chips-2026/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;NVIDIA Chips&#34; loading=&#34;lazy&#34; src=&#34;https://picsum.photos/seed/nvidiachips/800/400&#34;&gt;&lt;/p&gt;
-&lt;p&gt;NVIDIA has become the most valuable
-technology company in the world in
-2026 surpassing Apple Microsoft and
-every other technology giant by market
-capitalization. The companys dominance
-in artificial intelligence chips has
-created one of the most extraordinary
-business success stories in corporate
-history generating returns for investors
-that dwarf virtually every other investment
-made in the past five years.&lt;/p&gt;
-&lt;p&gt;Understanding NVIDIA its technology
-its competitive position and its future
-prospects is essential for anyone interested
-in investing in or understanding the
-technology sector in 2026. The company&amp;rsquo;s
-GPU chips have become the essential
-infrastructure of the AI revolution
-making NVIDIA&amp;rsquo;s position in the AI
-economy analogous to Saudi Arabia&amp;rsquo;s
-position in the oil economy of the 20th century.&lt;/p&gt;</description>
+      <guid>/posts/nvidia-ai-chips-2026/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://picsum.photos/seed/nvidiachips/800/400&#34; alt=&#34;NVIDIA Chips&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;NVIDIA has become the most valuable&#xA;technology company in the world in&#xA;2026 surpassing Apple Microsoft and&#xA;every other technology giant by market&#xA;capitalization. The companys dominance&#xA;in artificial intelligence chips has&#xA;created one of the most extraordinary&#xA;business success stories in corporate&#xA;history generating returns for investors&#xA;that dwarf virtually every other investment&#xA;made in the past five years.&lt;/p&gt;&#xA;&lt;p&gt;Understanding NVIDIA its technology&#xA;its competitive position and its future&#xA;prospects is essential for anyone interested&#xA;in investing in or understanding the&#xA;technology sector in 2026. The company&amp;rsquo;s&#xA;GPU chips have become the essential&#xA;infrastructure of the AI revolution&#xA;making NVIDIA&amp;rsquo;s position in the AI&#xA;economy analogous to Saudi Arabia&amp;rsquo;s&#xA;position in the oil economy of the 20th century.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI in 2026: New Products New Drama and What Comes Next</title>
-      <link>https://thetrendz216.github.io/posts/openai-2026-update/</link>
+      <link>/posts/openai-2026-update/</link>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/posts/openai-2026-update/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;OpenAI 2026&#34; loading=&#34;lazy&#34; src=&#34;https://picsum.photos/seed/openaifuture/800/400&#34;&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI the company that launched the
-modern AI revolution with ChatGPT in
-late 2022 continues to be the most
-closely watched organization in technology
-in 2026. Its product releases business
-developments executive changes and
-organizational decisions generate more
-media coverage and public discussion
-than virtually any other company.&lt;/p&gt;
-&lt;p&gt;The company has released GPT-5 completed
-its transition to a for profit structure
-announced several new product categories
-and navigated ongoing governance challenges
-all while maintaining its position
-at the frontier of AI capabilities.
-Understanding OpenAI&amp;rsquo;s trajectory matters
-enormously for anyone trying to understand
-where AI technology is heading.&lt;/p&gt;</description>
+      <guid>/posts/openai-2026-update/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://picsum.photos/seed/openaifuture/800/400&#34; alt=&#34;OpenAI 2026&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;OpenAI the company that launched the&#xA;modern AI revolution with ChatGPT in&#xA;late 2022 continues to be the most&#xA;closely watched organization in technology&#xA;in 2026. Its product releases business&#xA;developments executive changes and&#xA;organizational decisions generate more&#xA;media coverage and public discussion&#xA;than virtually any other company.&lt;/p&gt;&#xA;&lt;p&gt;The company has released GPT-5 completed&#xA;its transition to a for profit structure&#xA;announced several new product categories&#xA;and navigated ongoing governance challenges&#xA;all while maintaining its position&#xA;at the frontier of AI capabilities.&#xA;Understanding OpenAI&amp;rsquo;s trajectory matters&#xA;enormously for anyone trying to understand&#xA;where AI technology is heading.&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI is Creating These 10 New High Paying Jobs in Africa Right Now</title>
-      <link>https://thetrendz216.github.io/posts/ai-jobs-2026/</link>
+      <link>/posts/ai-jobs-2026/</link>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/posts/ai-jobs-2026/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;AI Jobs&#34; loading=&#34;lazy&#34; src=&#34;https://picsum.photos/seed/ainewjobs/800/400&#34;&gt;&lt;/p&gt;
-&lt;p&gt;The narrative that artificial intelligence
-is destroying jobs misses the more
-important story: AI is creating entirely
-new categories of well paid work that
-did not exist just years ago. In Africa
-where youth unemployment remains a
-critical challenge these new AI powered
-job categories represent genuine economic
-opportunity for the millions of young
-Africans entering the workforce annually.&lt;/p&gt;
-&lt;p&gt;The AI job market in Africa is still
-in its early stages meaning that those
-who develop relevant skills now will
-face less competition and command higher
-salaries than those who enter the market
-after it becomes crowded. This early
-mover advantage is significant and
-the window for capturing it is open now.&lt;/p&gt;</description>
+      <guid>/posts/ai-jobs-2026/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://picsum.photos/seed/ainewjobs/800/400&#34; alt=&#34;AI Jobs&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The narrative that artificial intelligence&#xA;is destroying jobs misses the more&#xA;important story: AI is creating entirely&#xA;new categories of well paid work that&#xA;did not exist just years ago. In Africa&#xA;where youth unemployment remains a&#xA;critical challenge these new AI powered&#xA;job categories represent genuine economic&#xA;opportunity for the millions of young&#xA;Africans entering the workforce annually.&lt;/p&gt;&#xA;&lt;p&gt;The AI job market in Africa is still&#xA;in its early stages meaning that those&#xA;who develop relevant skills now will&#xA;face less competition and command higher&#xA;salaries than those who enter the market&#xA;after it becomes crowded. This early&#xA;mover advantage is significant and&#xA;the window for capturing it is open now.&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI is Creating These 10 New High Paying Jobs in Africa Right Now</title>
-      <link>https://thetrendz216.github.io/posts/samsung-galaxy-s26/</link>
+      <link>/posts/samsung-galaxy-s26/</link>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/posts/samsung-galaxy-s26/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;AI Jobs&#34; loading=&#34;lazy&#34; src=&#34;https://picsum.photos/seed/ainewjobs/800/400&#34;&gt;&lt;/p&gt;
-&lt;p&gt;The narrative that artificial intelligence
-is destroying jobs misses the more
-important story: AI is creating entirely
-new categories of well paid work that
-did not exist just years ago. In Africa
-where youth unemployment remains a
-critical challenge these new AI powered
-job categories represent genuine economic
-opportunity for the millions of young
-Africans entering the workforce annually.&lt;/p&gt;
-&lt;p&gt;The AI job market in Africa is still
-in its early stages meaning that those
-who develop relevant skills now will
-face less competition and command higher
-salaries than those who enter the market
-after it becomes crowded. This early
-mover advantage is significant and
-the window for capturing it is open now.&lt;/p&gt;</description>
+      <guid>/posts/samsung-galaxy-s26/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://picsum.photos/seed/ainewjobs/800/400&#34; alt=&#34;AI Jobs&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The narrative that artificial intelligence&#xA;is destroying jobs misses the more&#xA;important story: AI is creating entirely&#xA;new categories of well paid work that&#xA;did not exist just years ago. In Africa&#xA;where youth unemployment remains a&#xA;critical challenge these new AI powered&#xA;job categories represent genuine economic&#xA;opportunity for the millions of young&#xA;Africans entering the workforce annually.&lt;/p&gt;&#xA;&lt;p&gt;The AI job market in Africa is still&#xA;in its early stages meaning that those&#xA;who develop relevant skills now will&#xA;face less competition and command higher&#xA;salaries than those who enter the market&#xA;after it becomes crowded. This early&#xA;mover advantage is significant and&#xA;the window for capturing it is open now.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Gemini Ultra 2.0: The AI That&#39;s Challenging ChatGPT&#39;s Dominance</title>
-      <link>https://thetrendz216.github.io/posts/google-gemini-ultra/</link>
+      <link>/posts/google-gemini-ultra/</link>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/posts/google-gemini-ultra/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Gemini Ultra&#34; loading=&#34;lazy&#34; src=&#34;https://picsum.photos/seed/googlegemini/800/400&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Google has released Gemini Ultra 2.0
-its most powerful artificial intelligence
-model and the results suggest that
-the AI race between Google and OpenAI
-is closer than ever with each company
-demonstrating genuine strengths in
-different capability areas.&lt;/p&gt;
-&lt;p&gt;For the hundreds of millions of Africans
-who use Google products daily the
-arrival of Gemini Ultra capabilities
-integrated throughout Google&amp;rsquo;s ecosystem
-including Search Gmail Docs Maps and
-YouTube represents a significant and
-immediate upgrade in the AI assistance
-available to them without any additional
-subscription cost for basic features.&lt;/p&gt;</description>
+      <guid>/posts/google-gemini-ultra/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://picsum.photos/seed/googlegemini/800/400&#34; alt=&#34;Gemini Ultra&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Google has released Gemini Ultra 2.0&#xA;its most powerful artificial intelligence&#xA;model and the results suggest that&#xA;the AI race between Google and OpenAI&#xA;is closer than ever with each company&#xA;demonstrating genuine strengths in&#xA;different capability areas.&lt;/p&gt;&#xA;&lt;p&gt;For the hundreds of millions of Africans&#xA;who use Google products daily the&#xA;arrival of Gemini Ultra capabilities&#xA;integrated throughout Google&amp;rsquo;s ecosystem&#xA;including Search Gmail Docs Maps and&#xA;YouTube represents a significant and&#xA;immediate upgrade in the AI assistance&#xA;available to them without any additional&#xA;subscription cost for basic features.&lt;/p&gt;</description>
     </item>
     <item>
       <title>GPT-5 Is Here: Everything You Need to Know About OpenAI&#39;s Most Powerful AI</title>
-      <link>https://thetrendz216.github.io/posts/gpt5-released/</link>
+      <link>/posts/gpt5-released/</link>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/posts/gpt5-released/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;GPT-5&#34; loading=&#34;lazy&#34; src=&#34;https://picsum.photos/seed/gpt5ai/800/400&#34;&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI has officially released GPT-5
-the most powerful artificial intelligence
-model ever created and the results
-are exceeding even the most optimistic
-predictions of AI researchers. The
-new model represents a qualitative
-leap beyond its predecessors demonstrating
-reasoning capabilities that blur the
-line between machine and human intelligence
-in ways that are both exciting and
-sobering to witness.&lt;/p&gt;
-&lt;p&gt;GPT-5 was released after an extended
-development and safety testing period
-during which OpenAI conducted extensive
-evaluations of the models capabilities
-and potential risks. The release has
-immediately triggered a new wave of
-discussion about the pace of AI development
-and what the next generation of AI
-systems might be capable of.&lt;/p&gt;</description>
+      <guid>/posts/gpt5-released/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://picsum.photos/seed/gpt5ai/800/400&#34; alt=&#34;GPT-5&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;OpenAI has officially released GPT-5&#xA;the most powerful artificial intelligence&#xA;model ever created and the results&#xA;are exceeding even the most optimistic&#xA;predictions of AI researchers. The&#xA;new model represents a qualitative&#xA;leap beyond its predecessors demonstrating&#xA;reasoning capabilities that blur the&#xA;line between machine and human intelligence&#xA;in ways that are both exciting and&#xA;sobering to witness.&lt;/p&gt;&#xA;&lt;p&gt;GPT-5 was released after an extended&#xA;development and safety testing period&#xA;during which OpenAI conducted extensive&#xA;evaluations of the models capabilities&#xA;and potential risks. The release has&#xA;immediately triggered a new wave of&#xA;discussion about the pace of AI development&#xA;and what the next generation of AI&#xA;systems might be capable of.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How AI is Saving Lives Across Africa: Healthcare Revolution 2026</title>
-      <link>https://thetrendz216.github.io/posts/ai-healthcare-africa/</link>
+      <link>/posts/ai-healthcare-africa/</link>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/posts/ai-healthcare-africa/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;AI Healthcare&#34; loading=&#34;lazy&#34; src=&#34;https://picsum.photos/seed/healthcareafrica/800/400&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Artificial intelligence is transforming
-healthcare delivery across Africa in
-2026 addressing the continent&amp;rsquo;s most
-critical health challenges with technological
-solutions that reach populations previously
-underserved by traditional healthcare
-infrastructure.&lt;/p&gt;
-&lt;p&gt;The impact is measurable and profound.
-AI powered diagnostic tools are detecting
-diseases earlier and more accurately
-than before. Telemedicine platforms
-connecting patients with AI assisted
-diagnosis are bringing specialist level
-care to remote communities. Predictive
-algorithms are identifying disease
-outbreak risks weeks before traditional
-surveillance systems would detect them.&lt;/p&gt;</description>
+      <guid>/posts/ai-healthcare-africa/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://picsum.photos/seed/healthcareafrica/800/400&#34; alt=&#34;AI Healthcare&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Artificial intelligence is transforming&#xA;healthcare delivery across Africa in&#xA;2026 addressing the continent&amp;rsquo;s most&#xA;critical health challenges with technological&#xA;solutions that reach populations previously&#xA;underserved by traditional healthcare&#xA;infrastructure.&lt;/p&gt;&#xA;&lt;p&gt;The impact is measurable and profound.&#xA;AI powered diagnostic tools are detecting&#xA;diseases earlier and more accurately&#xA;than before. Telemedicine platforms&#xA;connecting patients with AI assisted&#xA;diagnosis are bringing specialist level&#xA;care to remote communities. Predictive&#xA;algorithms are identifying disease&#xA;outbreak risks weeks before traditional&#xA;surveillance systems would detect them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meta AI in 2026: How Facebook&#39;s AI Is Changing Social Media Forever</title>
-      <link>https://thetrendz216.github.io/posts/meta-ai-2026/</link>
+      <link>/posts/meta-ai-2026/</link>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/posts/meta-ai-2026/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Meta AI&#34; loading=&#34;lazy&#34; src=&#34;https://picsum.photos/seed/metaaifeatures/800/400&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Meta the parent company of Facebook
-Instagram and WhatsApp has made artificial
-intelligence the central pillar of
-its product strategy in 2026 integrating
-AI features across all its platforms
-in ways that are fundamentally changing
-how billions of people interact with
-social media and with each other.&lt;/p&gt;
-&lt;p&gt;For African users who collectively
-represent over 400 million Meta platform
-users these AI features are arriving
-with specific adaptations for African
-languages contexts and use cases that
-reflect Meta&amp;rsquo;s recognition of Africa
-as one of its most important growth markets.&lt;/p&gt;</description>
+      <guid>/posts/meta-ai-2026/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://picsum.photos/seed/metaaifeatures/800/400&#34; alt=&#34;Meta AI&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Meta the parent company of Facebook&#xA;Instagram and WhatsApp has made artificial&#xA;intelligence the central pillar of&#xA;its product strategy in 2026 integrating&#xA;AI features across all its platforms&#xA;in ways that are fundamentally changing&#xA;how billions of people interact with&#xA;social media and with each other.&lt;/p&gt;&#xA;&lt;p&gt;For African users who collectively&#xA;represent over 400 million Meta platform&#xA;users these AI features are arriving&#xA;with specific adaptations for African&#xA;languages contexts and use cases that&#xA;reflect Meta&amp;rsquo;s recognition of Africa&#xA;as one of its most important growth markets.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jobs That Will Be Created By AI in 2026 and Beyond</title>
-      <link>https://thetrendz216.github.io/posts/ai-future-jobs/</link>
+      <link>/posts/ai-future-jobs/</link>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/posts/ai-future-jobs/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Many people fear that artificial intelligence
-will take their jobs. While AI will certainly
-automate some tasks, it is also creating
-entirely new careers that did not exist just
-a few years ago. Here are the exciting new
-jobs being created by the AI revolution.&lt;/p&gt;
-&lt;h2 id=&#34;1-ai-prompt-engineer&#34;&gt;1. AI Prompt Engineer&lt;/h2&gt;
-&lt;p&gt;Companies need experts who know how to
-communicate effectively with AI systems.
-A skilled prompt engineer can earn
-$80,000-$200,000 per year writing
-instructions that get the best results
-from AI tools.&lt;/p&gt;</description>
+      <guid>/posts/ai-future-jobs/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Many people fear that artificial intelligence&#xA;will take their jobs. While AI will certainly&#xA;automate some tasks, it is also creating&#xA;entirely new careers that did not exist just&#xA;a few years ago. Here are the exciting new&#xA;jobs being created by the AI revolution.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-ai-prompt-engineer&#34;&gt;1. AI Prompt Engineer&lt;/h2&gt;&#xA;&lt;p&gt;Companies need experts who know how to&#xA;communicate effectively with AI systems.&#xA;A skilled prompt engineer can earn&#xA;$80,000-$200,000 per year writing&#xA;instructions that get the best results&#xA;from AI tools.&lt;/p&gt;</description>
     </item>
     <item>
       <title>10 Ways to Make Money Using ChatGPT in 2026</title>
-      <link>https://thetrendz216.github.io/posts/chatgbt-money/</link>
+      <link>/posts/chatgbt-money/</link>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/posts/chatgbt-money/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;ChatGPT has completely changed how people
-make money online in 2026. This powerful AI
-tool can help you earn money in ways that
-were impossible just a few years ago.
-Here are 10 proven ways to profit from ChatGPT.&lt;/p&gt;
-&lt;h2 id=&#34;1-freelance-writing&#34;&gt;1. Freelance Writing&lt;/h2&gt;
-&lt;p&gt;Use ChatGPT to write articles, blog posts
-and website content for clients. Many
-businesses pay $50-$500 per article.
-You can complete 5-10 articles per day!&lt;/p&gt;
-&lt;h2 id=&#34;2-create-and-sell-ebooks&#34;&gt;2. Create and Sell Ebooks&lt;/h2&gt;
-&lt;p&gt;Use ChatGPT to write ebooks on popular
-topics. Sell them on Amazon Kindle or
-Gumroad for passive income every month.&lt;/p&gt;</description>
+      <guid>/posts/chatgbt-money/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;ChatGPT has completely changed how people&#xA;make money online in 2026. This powerful AI&#xA;tool can help you earn money in ways that&#xA;were impossible just a few years ago.&#xA;Here are 10 proven ways to profit from ChatGPT.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-freelance-writing&#34;&gt;1. Freelance Writing&lt;/h2&gt;&#xA;&lt;p&gt;Use ChatGPT to write articles, blog posts&#xA;and website content for clients. Many&#xA;businesses pay $50-$500 per article.&#xA;You can complete 5-10 articles per day!&lt;/p&gt;&#xA;&lt;h2 id=&#34;2-create-and-sell-ebooks&#34;&gt;2. Create and Sell Ebooks&lt;/h2&gt;&#xA;&lt;p&gt;Use ChatGPT to write ebooks on popular&#xA;topics. Sell them on Amazon Kindle or&#xA;Gumroad for passive income every month.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best AI Tools to Use in 2026</title>
-      <link>https://thetrendz216.github.io/posts/ai-tools-2026/</link>
+      <link>/posts/ai-tools-2026/</link>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/posts/ai-tools-2026/</guid>
-      <description>&lt;h2 id=&#34;-introduction&#34;&gt;🚀 Introduction&lt;/h2&gt;
-&lt;p&gt;Artificial Intelligence is transforming how we work, create, and learn in 2026.&lt;br&gt;
-Here are the most powerful AI tools you should start using today.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;1-chatgpt&#34;&gt;1. ChatGPT&lt;/h2&gt;
-&lt;p&gt;The most popular AI tool for:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Writing content&lt;/li&gt;
-&lt;li&gt;Coding assistance&lt;/li&gt;
-&lt;li&gt;Problem solving&lt;/li&gt;
-&lt;li&gt;Learning new skills&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Perfect for beginners and professionals.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;2-claude-ai&#34;&gt;2. Claude AI&lt;/h2&gt;
-&lt;p&gt;Great for:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Long-form writing&lt;/li&gt;
-&lt;li&gt;Deep analysis&lt;/li&gt;
-&lt;li&gt;Research summaries&lt;/li&gt;
-&lt;li&gt;Creative thinking&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;It handles complex tasks very well.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;3-midjourney&#34;&gt;3. Midjourney&lt;/h2&gt;
-&lt;p&gt;A powerful AI image generator that creates stunning visuals from text prompts.&lt;/p&gt;</description>
+      <guid>/posts/ai-tools-2026/</guid>
+      <description>&lt;h2 id=&#34;-introduction&#34;&gt;🚀 Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Artificial Intelligence is transforming how we work, create, and learn in 2026.&lt;br&gt;&#xA;Here are the most powerful AI tools you should start using today.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-chatgpt&#34;&gt;1. ChatGPT&lt;/h2&gt;&#xA;&lt;p&gt;The most popular AI tool for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Writing content&lt;/li&gt;&#xA;&lt;li&gt;Coding assistance&lt;/li&gt;&#xA;&lt;li&gt;Problem solving&lt;/li&gt;&#xA;&lt;li&gt;Learning new skills&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Perfect for beginners and professionals.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-claude-ai&#34;&gt;2. Claude AI&lt;/h2&gt;&#xA;&lt;p&gt;Great for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Long-form writing&lt;/li&gt;&#xA;&lt;li&gt;Deep analysis&lt;/li&gt;&#xA;&lt;li&gt;Research summaries&lt;/li&gt;&#xA;&lt;li&gt;Creative thinking&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;It handles complex tasks very well.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;3-midjourney&#34;&gt;3. Midjourney&lt;/h2&gt;&#xA;&lt;p&gt;A powerful AI image generator that creates stunning visuals from text prompts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Future of AI in 2026 and Beyond</title>
-      <link>https://thetrendz216.github.io/posts/future-of-ai-2026/</link>
+      <link>/posts/future-of-ai-2026/</link>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/posts/future-of-ai-2026/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Future AI&#34; loading=&#34;lazy&#34; src=&#34;https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Artificial Intelligence is changing
-everything in 2026. Here is what the
-future looks like!&lt;/p&gt;
-&lt;h2 id=&#34;1-ai-in-healthcare&#34;&gt;1. AI in Healthcare&lt;/h2&gt;
-&lt;p&gt;Doctors are using AI to detect diseases
-faster and save more lives.&lt;/p&gt;
-&lt;h2 id=&#34;2-ai-in-education&#34;&gt;2. AI in Education&lt;/h2&gt;
-&lt;p&gt;Students now have personal AI tutors
-that help them learn faster.&lt;/p&gt;
-&lt;h2 id=&#34;3-ai-in-business&#34;&gt;3. AI in Business&lt;/h2&gt;
-&lt;p&gt;Companies use AI to automate tasks and
-save millions of dollars.&lt;/p&gt;
-&lt;h2 id=&#34;4-ai-creating-jobs&#34;&gt;4. AI Creating Jobs&lt;/h2&gt;
-&lt;p&gt;Contrary to fears, AI is creating new
-jobs that never existed before.&lt;/p&gt;</description>
+      <guid>/posts/future-of-ai-2026/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&#34; alt=&#34;Future AI&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Artificial Intelligence is changing&#xA;everything in 2026. Here is what the&#xA;future looks like!&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-ai-in-healthcare&#34;&gt;1. AI in Healthcare&lt;/h2&gt;&#xA;&lt;p&gt;Doctors are using AI to detect diseases&#xA;faster and save more lives.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2-ai-in-education&#34;&gt;2. AI in Education&lt;/h2&gt;&#xA;&lt;p&gt;Students now have personal AI tutors&#xA;that help them learn faster.&lt;/p&gt;&#xA;&lt;h2 id=&#34;3-ai-in-business&#34;&gt;3. AI in Business&lt;/h2&gt;&#xA;&lt;p&gt;Companies use AI to automate tasks and&#xA;save millions of dollars.&lt;/p&gt;&#xA;&lt;h2 id=&#34;4-ai-creating-jobs&#34;&gt;4. AI Creating Jobs&lt;/h2&gt;&#xA;&lt;p&gt;Contrary to fears, AI is creating new&#xA;jobs that never existed before.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

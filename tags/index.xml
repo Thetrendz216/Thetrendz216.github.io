@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on The Trendz</title>
-    <link>https://thetrendz216.github.io/tags/</link>
-    <description>Recent content in Tags on The Trendz</description>
+    <title>Tags on </title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sun, 19 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thetrendz216.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Affiliate Marketing</title>
-      <link>https://thetrendz216.github.io/tags/affiliate-marketing/</link>
+      <link>/tags/affiliate-marketing/</link>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/tags/affiliate-marketing/</guid>
+      <guid>/tags/affiliate-marketing/</guid>
       <description></description>
     </item>
     <item>
       <title>AI Tools</title>
-      <link>https://thetrendz216.github.io/tags/ai-tools/</link>
+      <link>/tags/ai-tools/</link>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/tags/ai-tools/</guid>
+      <guid>/tags/ai-tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Freelancing</title>
-      <link>https://thetrendz216.github.io/tags/freelancing/</link>
+      <link>/tags/freelancing/</link>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/tags/freelancing/</guid>
+      <guid>/tags/freelancing/</guid>
       <description></description>
     </item>
     <item>
       <title>Future AI</title>
-      <link>https://thetrendz216.github.io/tags/future-ai/</link>
+      <link>/tags/future-ai/</link>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/tags/future-ai/</guid>
+      <guid>/tags/future-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Online Income</title>
-      <link>https://thetrendz216.github.io/tags/online-income/</link>
+      <link>/tags/online-income/</link>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/tags/online-income/</guid>
+      <guid>/tags/online-income/</guid>
       <description></description>
     </item>
     <item>
       <title>Productivity</title>
-      <link>https://thetrendz216.github.io/tags/productivity/</link>
+      <link>/tags/productivity/</link>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/tags/productivity/</guid>
+      <guid>/tags/productivity/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>https://thetrendz216.github.io/tags/technology/</link>
+      <link>/tags/technology/</link>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/tags/technology/</guid>
+      <guid>/tags/technology/</guid>
       <description></description>
     </item>
   </channel>

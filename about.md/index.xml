@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About.mds on The Trendz</title>
-    <link>https://thetrendz216.github.io/about.md/</link>
-    <description>Recent content in About.mds on The Trendz</description>
+    <title>About.mds on </title>
+    <link>/about.md/</link>
+    <description>Recent content in About.mds on </description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://thetrendz216.github.io/about.md/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/about.md/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact Us</title>
-      <link>https://thetrendz216.github.io/about.md/about/</link>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://thetrendz216.github.io/about.md/about/</guid>
-      <description>&lt;h1 id=&#34;contact-the-trendz&#34;&gt;Contact The Trendz&lt;/h1&gt;
-&lt;p&gt;We’d love to hear from you! Whether you have a question, feedback, or a business inquiry, feel free to reach out.&lt;/p&gt;
-&lt;h2 id=&#34;-get-in-touch&#34;&gt;📩 Get in Touch&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:your-email@example.com&#34;&gt;your-email@example.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; @thetrendz&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Twitter/X:&lt;/strong&gt; @thetrendz&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-collaboration&#34;&gt;🤝 Collaboration&lt;/h2&gt;
-&lt;p&gt;Interested in working with &lt;strong&gt;The Trendz&lt;/strong&gt;?&lt;br&gt;
-We’re open to partnerships, promotions, and collaborations.&lt;/p&gt;
-&lt;h2 id=&#34;-response-time&#34;&gt;⏱ Response Time&lt;/h2&gt;
-&lt;p&gt;We aim to respond within &lt;strong&gt;24 hours&lt;/strong&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Stay connected. Let’s grow together 🚀&lt;/strong&gt;&lt;/p&gt;</description>
+      <title>About The Trendz</title>
+      <link>/about.md/about/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>/about.md/about/</guid>
+      <description>&lt;h2 id=&#34;about-the-trendz&#34;&gt;About The Trendz&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to The Trendz — your number&#xA;one source for the latest news and&#xA;guides on making money online AI tools&#xA;technology and business opportunities&#xA;in Africa and beyond.&lt;/p&gt;&#xA;&lt;p&gt;We started The Trendz with one simple&#xA;mission. To provide Africans and people&#xA;worldwide with honest practical and&#xA;actionable information that helps them&#xA;improve their financial lives using&#xA;the power of the internet and technology.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-we-cover&#34;&gt;What We Cover&lt;/h2&gt;&#xA;&lt;p&gt;At The Trendz we cover four main topics&#xA;that matter most to our readers in 2026.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
