@@ -93,203 +93,505 @@
         </ul>
     </nav>
 </header>
-<main class="main"> 
+<main class="main">
 
-<article class="first-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://picsum.photos/seed/financemistakes/800/400" alt="Personal Finance Mistakes 2026">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">10 Personal Finance Mistakes Keeping You Broke in 2026 (And How to Fix Them)
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Introduction Most people do not have a money problem. They have a money management problem. The same income that keeps one person perpetually broke builds genuine wealth for another because of the financial decisions they make and the habits they maintain.
-The ten mistakes in this guide are the most common and most costly financial errors people make in the United States United Kingdom Kenya Nigeria and worldwide. Understanding and correcting these mistakes can transform your financial situation regardless of your current income level.
-...</p>
+<style>
+:root {
+  --primary: #ff6b35;
+  --secondary: #004e89;
+  --accent: #1a936f;
+  --light: #f8f9fa;
+  --dark: #1a1a2e;
+}
+
+ 
+.hero {
+  background: linear-gradient(135deg, #004e89 0%, #1a936f 100%);
+  color: white;
+  padding: 60px 20px;
+  text-align: center;
+  border-radius: 0 0 40px 40px;
+  margin-bottom: 40px;
+}
+.hero h1 {
+  font-size: 2.8rem;
+  font-weight: 800;
+  margin-bottom: 15px;
+  line-height: 1.2;
+}
+.hero p {
+  font-size: 1.2rem;
+  opacity: 0.9;
+  max-width: 600px;
+  margin: 0 auto 25px;
+}
+.hero-tags {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.hero-tag {
+  background: rgba(255,255,255,0.2);
+  color: white;
+  padding: 6px 18px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+.hero-tag:hover { background: rgba(255,255,255,0.35); color: white; }
+
+ 
+.section-title {
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: var(--dark);
+  margin: 40px 0 20px;
+  padding-left: 15px;
+  border-left: 5px solid var(--primary);
+}
+.dark .section-title { color: #fff; }
+
+ 
+.featured-post {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.12);
+  margin-bottom: 40px;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.3s;
+}
+.featured-post:hover { transform: translateY(-4px); }
+.featured-img {
+  background: linear-gradient(135deg, #ff6b35, #ff8c42);
+  min-height: 280px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5rem;
+}
+.featured-content {
+  padding: 35px;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.dark .featured-content { background: #1e1e2e; }
+.featured-cat {
+  background: var(--primary);
+  color: white;
+  padding: 4px 14px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  display: inline-block;
+  margin-bottom: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.featured-content h2 {
+  font-size: 1.7rem;
+  font-weight: 800;
+  line-height: 1.3;
+  margin-bottom: 12px;
+  color: var(--dark);
+}
+.dark .featured-content h2 { color: #fff; }
+.featured-content p {
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+.dark .featured-content p { color: #aaa; }
+.read-more {
+  color: var(--primary);
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+ 
+.posts-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin-bottom: 40px;
+}
+.post-card {
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.3s, box-shadow 0.3s;
+  background: white;
+  display: flex;
+  flex-direction: column;
+}
+.dark .post-card { background: #1e1e2e; }
+.post-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 35px rgba(0,0,0,0.15);
+}
+.card-img {
+  height: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+}
+.card-body { padding: 20px; flex: 1; display: flex; flex-direction: column; }
+.card-cat {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 8px;
+}
+.card-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.4;
+  color: var(--dark);
+  margin-bottom: 10px;
+  flex: 1;
+}
+.dark .card-title { color: #fff; }
+.card-meta {
+  font-size: 0.8rem;
+  color: #999;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+ 
+.cat-money { background: linear-gradient(135deg, #11998e, #38ef7d); }
+.cat-ai { background: linear-gradient(135deg, #667eea, #764ba2); }
+.cat-tech { background: linear-gradient(135deg, #f093fb, #f5576c); }
+.cat-news { background: linear-gradient(135deg, #4facfe, #00f2fe); }
+.cat-default { background: linear-gradient(135deg, #ff6b35, #ff8c42); }
+.tag-money { color: #11998e; }
+.tag-ai { color: #667eea; }
+.tag-tech { color: #f5576c; }
+.tag-news { color: #4facfe; }
+.tag-default { color: var(--primary); }
+
+ 
+.newsletter {
+  background: linear-gradient(135deg, #1a1a2e, #16213e);
+  color: white;
+  padding: 50px 30px;
+  border-radius: 20px;
+  text-align: center;
+  margin: 40px 0;
+}
+.newsletter h3 { font-size: 1.8rem; font-weight: 800; margin-bottom: 10px; }
+.newsletter p { opacity: 0.8; margin-bottom: 25px; }
+.newsletter-form {
+  display: flex;
+  gap: 10px;
+  max-width: 450px;
+  margin: 0 auto;
+}
+.newsletter-form input {
+  flex: 1;
+  padding: 12px 20px;
+  border-radius: 30px;
+  border: none;
+  font-size: 0.95rem;
+  outline: none;
+}
+.newsletter-form button {
+  background: var(--primary);
+  color: white;
+  border: none;
+  padding: 12px 28px;
+  border-radius: 30px;
+  font-weight: 700;
+  cursor: pointer;
+  font-size: 0.95rem;
+  transition: background 0.3s;
+}
+.newsletter-form button:hover { background: #e55a28; }
+
+ 
+@media (max-width: 768px) {
+  .hero h1 { font-size: 1.9rem; }
+  .featured-post { grid-template-columns: 1fr; }
+  .featured-img { min-height: 180px; }
+  .posts-grid { grid-template-columns: 1fr; }
+  .newsletter-form { flex-direction: column; }
+}
+@media (min-width: 769px) and (max-width: 1024px) {
+  .posts-grid { grid-template-columns: repeat(2, 1fr); }
+}
+</style>
+
+
+<div class="hero">
+  <h1>🚀 The Trendz</h1>
+  <p>Your #1 source for Money Tips, AI Tools, Tech News and Business Opportunities</p>
+  <div class="hero-tags">
+    <a href="/categories/money/" class="hero-tag">💰 Money</a>
+    <a href="/categories/ai/" class="hero-tag">🤖 AI Tools</a>
+    <a href="/categories/tech/" class="hero-tag">📱 Technology</a>
+    <a href="/categories/news/" class="hero-tag">📰 News</a>
   </div>
-  <footer class="entry-footer">
+</div>
 
-<span title='2026-05-06 00:00:00 +0000 UTC'>May 6, 2026</span>&nbsp;·&nbsp;<span>5 min</span></footer>
-  <a class="entry-link" aria-label="post link to 10 Personal Finance Mistakes Keeping You Broke in 2026 (And How to Fix Them)" href="https://thetrendz216.github.io/posts/personal-finance-mistakes-2026/"></a>
-</article>
+<div style="max-width:1100px; margin:0 auto; padding:0 20px;">
 
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://picsum.photos/seed/financialfreedom2026/800/400" alt="Financial Freedom Steps 2026">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">7 Steps to Financial Freedom in 2026: Your Complete Roadmap
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Introduction Financial freedom means having enough passive income from investments and assets to cover your living expenses without needing to trade your time for money. It means choices about how you spend your days based on what matters most to you rather than what pays your bills.
-For most people financial freedom sounds distant and abstract. But it is a genuinely achievable goal for anyone willing to follow a clear systematic roadmap with patience and consistency over a multi year journey.
-...</p>
-  </div>
-  <footer class="entry-footer">
+  
+  
+  
+  
+  <h2 class="section-title">⭐ Featured Post</h2>
+  <a href="https://thetrendz216.github.io/posts/personal-finance-mistakes-2026/" class="featured-post">
+    <div class="featured-img cat-money">
+      🔥
+    </div>
+    <div class="featured-content">
+      <span class="featured-cat">Money</span>
+      <h2>10 Personal Finance Mistakes Keeping You Broke in 2026 (And How to Fix Them)</h2>
+      <p><h2 id="introduction">Introduction</h2>
+<p><img alt="Finance Mistakes" loading="lazy" src="https://picsum.photos/seed/moneymistake/800/400"></p>
+<p>Most people do not have a money problem.
+They have a money management problem.
+The same income that keeps …</p></p>
+      <span class="read-more">Read More →</span>
+    </div>
+  </a>
+  
 
-<span title='2026-05-06 00:00:00 +0000 UTC'>May 6, 2026</span>&nbsp;·&nbsp;<span>4 min</span></footer>
-  <a class="entry-link" aria-label="post link to 7 Steps to Financial Freedom in 2026: Your Complete Roadmap" href="https://thetrendz216.github.io/posts/financial-freedo-steps-2026/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://picsum.photos/seed/aiwriting2026/800/400" alt="Best AI Writing Tools 2026">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Best AI Writing Tools in 2026: Write Faster and Earn More Money
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Introduction AI writing tools have transformed content creation in 2026. Writers who use AI assistance consistently produce three to five times more content per hour than those writing manually allowing them to serve more clients earn more money and build content businesses that were previously impossible for individual creators to maintain.
-Whether you are a freelance writer a blogger a business owner creating marketing content or a student completing assignments AI writing tools provide powerful assistance that dramatically improves both the speed and quality of your written output.
-...</p>
-  </div>
-  <footer class="entry-footer">
-
-<span title='2026-05-06 00:00:00 +0000 UTC'>May 6, 2026</span>&nbsp;·&nbsp;<span>5 min</span></footer>
-  <a class="entry-link" aria-label="post link to Best AI Writing Tools in 2026: Write Faster and Earn More Money" href="https://thetrendz216.github.io/posts/ai-writing-tools-2026/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://picsum.photos/seed/budgetphone2026/800/400" alt="Best Budget Smartphones 2026">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Best Budget Smartphones in 2026: Top Picks Under $200
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Introduction The budget smartphone market in 2026 has reached a point where phones costing under $200 deliver performance and features that flagship phones of just three years ago could not match. For the vast majority of users a well chosen budget smartphone provides everything needed for communication content consumption photography and productivity without the premium price of flagship devices.
-This guide covers the best budget smartphones available in 2026 for users in Kenya Nigeria Ghana South Africa the United States United Kingdom and global markets with honest assessments of each phone’s strengths limitations and ideal user profile.
-...</p>
-  </div>
-  <footer class="entry-footer">
-
-<span title='2026-05-06 00:00:00 +0000 UTC'>May 6, 2026</span>&nbsp;·&nbsp;<span>5 min</span></footer>
-  <a class="entry-link" aria-label="post link to Best Budget Smartphones in 2026: Top Picks Under $200" href="https://thetrendz216.github.io/posts/best-smartphones-budget-2026/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://picsum.photos/seed/chatgptprompts/800/400" alt="ChatGPT Prompts Make Money 2026">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Best ChatGPT Prompts to Make Money Online in 2026
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Introduction The quality of what ChatGPT produces is determined almost entirely by the quality of what you ask it. Generic prompts produce generic output. Specific detailed prompts produce specific detailed output that is genuinely useful for earning money online.
-This guide provides the most effective ChatGPT prompts for specific money making activities in 2026. Copy these prompts directly and customize the bracketed sections for your specific situation to immediately improve your ChatGPT income generating results.
-...</p>
-  </div>
-  <footer class="entry-footer">
-
-<span title='2026-05-06 00:00:00 +0000 UTC'>May 6, 2026</span>&nbsp;·&nbsp;<span>4 min</span></footer>
-  <a class="entry-link" aria-label="post link to Best ChatGPT Prompts to Make Money Online in 2026" href="https://thetrendz216.github.io/posts/chatgpt-prompts-money/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://picsum.photos/seed/investapps2026/800/400" alt="Best Investment Apps 2026">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Best Investment Apps in 2026: Grow Your Money From Your Phone
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Introduction Your smartphone is the most powerful investment tool ever created. In 2026 the best investment apps allow anyone to start building wealth from as little as $1 without visiting a bank branch without speaking to a financial advisor and without any previous investment experience.
-People across the United States United Kingdom Kenya Nigeria and every connected country are growing their money using investment apps that were simply not available five years ago. This guide covers the best investment apps available in 2026 and exactly how to use each one to start building your wealth today.
-...</p>
-  </div>
-  <footer class="entry-footer">
-
-<span title='2026-05-06 00:00:00 +0000 UTC'>May 6, 2026</span>&nbsp;·&nbsp;<span>5 min</span></footer>
-  <a class="entry-link" aria-label="post link to Best Investment Apps in 2026: Grow Your Money From Your Phone" href="https://thetrendz216.github.io/posts/best-investent-apps-2026/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://picsum.photos/seed/studenthustle/800/400" alt="Best Side Hustles Students 2026">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Best Side Hustles for Students in 2026: Make Money While Studying
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Introduction Being a student in 2026 does not mean accepting financial struggle as an inevitable condition. University and college students across Kenya Nigeria Ghana the United States United Kingdom and worldwide are building significant side hustle income that covers tuition fees funds living expenses and even builds savings all while maintaining academic performance.
-The digital economy has created income opportunities specifically suited to student schedules. Flexible hours remote work and skills that align naturally with academic capabilities make many online income methods perfect for students who cannot commit to traditional part time employment with fixed schedules.
-...</p>
-  </div>
-  <footer class="entry-footer">
-
-<span title='2026-05-06 00:00:00 +0000 UTC'>May 6, 2026</span>&nbsp;·&nbsp;<span>5 min</span></footer>
-  <a class="entry-link" aria-label="post link to Best Side Hustles for Students in 2026: Make Money While Studying" href="https://thetrendz216.github.io/posts/best-side-hustles-student/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://picsum.photos/seed/cryptowallet/800/400" alt="Crypto Wallet Guide 2026">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Crypto Wallets in 2026: How to Store Your Cryptocurrency Safely
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Introduction Losing cryptocurrency because of poor security is one of the most devastating financial experiences possible because unlike bank fraud there is no customer service to call and no reversal process available. Millions of dollars worth of cryptocurrency is lost every year because owners did not understand how to store their digital assets safely.
-This guide explains exactly how cryptocurrency wallets work the different types available and the specific security practices that protect your digital assets regardless of whether you hold $100 or $100,000 in cryptocurrency.
-...</p>
-  </div>
-  <footer class="entry-footer">
-
-<span title='2026-05-06 00:00:00 +0000 UTC'>May 6, 2026</span>&nbsp;·&nbsp;<span>4 min</span></footer>
-  <a class="entry-link" aria-label="post link to Crypto Wallets in 2026: How to Store Your Cryptocurrency Safely" href="https://thetrendz216.github.io/posts/crypto-wallet-guide-2026/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://picsum.photos/seed/fiverrsucess/800/400" alt="Fiverr Success 2026">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Fiverr Success in 2026: How to Make $3,000 Monthly as a Complete Beginner
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Introduction Fiverr has evolved from a platform where everything cost $5 into a sophisticated freelance marketplace where skilled professionals earn thousands of dollars monthly from clients across the globe. In 2026 Fiverr sellers in Kenya Nigeria Ghana South Africa the United States and the United Kingdom are building significant income from services ranging from graphic design and writing to programming and video editing.
-The platform’s global reach means that your potential client base includes businesses and entrepreneurs from every country. A well optimized Fiverr profile in the right category attracts clients 24 hours per day without any active sales effort from the seller.
-...</p>
-  </div>
-  <footer class="entry-footer">
-
-<span title='2026-05-06 00:00:00 +0000 UTC'>May 6, 2026</span>&nbsp;·&nbsp;<span>5 min</span></footer>
-  <a class="entry-link" aria-label="post link to Fiverr Success in 2026: How to Make $3,000 Monthly as a Complete Beginner" href="https://thetrendz216.github.io/posts/fiverr-success-2026/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://picsum.photos/seed/freelanceskills/800/400" alt="Highest Paying Freelance Skills 2026">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Highest Paying Freelance Skills in 2026: What to Learn to Earn More
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Introduction The freelance economy in 2026 has created genuine wealth building opportunities for skilled professionals regardless of where they live. A freelance developer in Nairobi earns the same as one in New York when serving international clients through platforms like Upwork and Toptal. A copywriter in Lagos competes equally with one in London when clients evaluate portfolios rather than passports.
-Understanding which skills command the highest freelance rates and how to develop them is the most valuable career knowledge available in 2026. This guide ranks the highest paying freelance skills with realistic income ranges and specific learning pathways for developing each one.
-...</p>
-  </div>
-  <footer class="entry-footer">
-
-<span title='2026-05-06 00:00:00 +0000 UTC'>May 6, 2026</span>&nbsp;·&nbsp;<span>4 min</span></footer>
-  <a class="entry-link" aria-label="post link to Highest Paying Freelance Skills in 2026: What to Learn to Earn More" href="https://thetrendz216.github.io/posts/best-freelance-skills-2026/"></a>
-</article>
-<footer class="page-footer">
-  <nav class="pagination">
-    <a class="next" href="https://thetrendz216.github.io/page/2/">Next&nbsp;&nbsp;»
+  
+  <h2 class="section-title">🔥 Latest Posts</h2>
+  <div class="posts-grid">
+    
+    <a href="https://thetrendz216.github.io/posts/financial-freedo-steps-2026/" class="post-card">
+      <div class="card-img cat-money">
+        📝
+      </div>
+      <div class="card-body">
+        
+        <div class="card-cat tag-money">Money</div>
+        
+        <div class="card-title">7 Steps to Financial Freedom in 2026: Your Complete Roadmap</div>
+        <div class="card-meta">
+          📅 May 6, 2026
+          &bull; ⏱ 4 min read
+        </div>
+      </div>
     </a>
-  </nav>
-</footer>
+    
+    <a href="https://thetrendz216.github.io/posts/ai-writing-tools-2026/" class="post-card">
+      <div class="card-img cat-ai">
+        📝
+      </div>
+      <div class="card-body">
+        
+        <div class="card-cat tag-ai">AI</div>
+        
+        <div class="card-title">Best AI Writing Tools in 2026: Write Faster and Earn More Money</div>
+        <div class="card-meta">
+          📅 May 6, 2026
+          &bull; ⏱ 5 min read
+        </div>
+      </div>
+    </a>
+    
+    <a href="https://thetrendz216.github.io/posts/best-smartphones-budget-2026/" class="post-card">
+      <div class="card-img cat-tech">
+        📝
+      </div>
+      <div class="card-body">
+        
+        <div class="card-cat tag-tech">Tech</div>
+        
+        <div class="card-title">Best Budget Smartphones in 2026: Top Picks Under $200</div>
+        <div class="card-meta">
+          📅 May 6, 2026
+          &bull; ⏱ 5 min read
+        </div>
+      </div>
+    </a>
+    
+    <a href="https://thetrendz216.github.io/posts/chatgpt-prompts-money/" class="post-card">
+      <div class="card-img cat-ai">
+        📝
+      </div>
+      <div class="card-body">
+        
+        <div class="card-cat tag-ai">AI</div>
+        
+        <div class="card-title">Best ChatGPT Prompts to Make Money Online in 2026</div>
+        <div class="card-meta">
+          📅 May 6, 2026
+          &bull; ⏱ 4 min read
+        </div>
+      </div>
+    </a>
+    
+    <a href="https://thetrendz216.github.io/posts/best-investent-apps-2026/" class="post-card">
+      <div class="card-img cat-money">
+        📝
+      </div>
+      <div class="card-body">
+        
+        <div class="card-cat tag-money">Money</div>
+        
+        <div class="card-title">Best Investment Apps in 2026: Grow Your Money From Your Phone</div>
+        <div class="card-meta">
+          📅 May 6, 2026
+          &bull; ⏱ 5 min read
+        </div>
+      </div>
+    </a>
+    
+    <a href="https://thetrendz216.github.io/posts/best-side-hustles-student/" class="post-card">
+      <div class="card-img cat-money">
+        📝
+      </div>
+      <div class="card-body">
+        
+        <div class="card-cat tag-money">Money</div>
+        
+        <div class="card-title">Best Side Hustles for Students in 2026: Make Money While Studying</div>
+        <div class="card-meta">
+          📅 May 6, 2026
+          &bull; ⏱ 5 min read
+        </div>
+      </div>
+    </a>
+    
+  </div>
+
+  
+  <div class="newsletter">
+    <h3>📬 Stay in the Loop</h3>
+    <p>Get the latest money tips, AI tools and tech news delivered to your inbox.</p>
+    <div class="newsletter-form">
+      <input type="email" placeholder="Enter your email address..." />
+      <button>Subscribe Free</button>
+    </div>
+  </div>
+
+  
+  <h2 class="section-title">📚 More Articles</h2>
+  <div class="posts-grid">
+    
+    <a href="https://thetrendz216.github.io/posts/crypto-wallet-guide-2026/" class="post-card">
+      <div class="card-img cat-money">
+        📝
+      </div>
+      <div class="card-body">
+        
+        <div class="card-cat tag-money">Money</div>
+        
+        <div class="card-title">Crypto Wallets in 2026: How to Store Your Cryptocurrency Safely</div>
+        <div class="card-meta">
+          📅 May 6, 2026
+          &bull; ⏱ 4 min read
+        </div>
+      </div>
+    </a>
+    
+    <a href="https://thetrendz216.github.io/posts/fiverr-success-2026/" class="post-card">
+      <div class="card-img cat-money">
+        📝
+      </div>
+      <div class="card-body">
+        
+        <div class="card-cat tag-money">Money</div>
+        
+        <div class="card-title">Fiverr Success in 2026: How to Make $3,000 Monthly as a Complete Beginner</div>
+        <div class="card-meta">
+          📅 May 6, 2026
+          &bull; ⏱ 5 min read
+        </div>
+      </div>
+    </a>
+    
+    <a href="https://thetrendz216.github.io/posts/best-freelance-skills-2026/" class="post-card">
+      <div class="card-img cat-money">
+        📝
+      </div>
+      <div class="card-body">
+        
+        <div class="card-cat tag-money">Money</div>
+        
+        <div class="card-title">Highest Paying Freelance Skills in 2026: What to Learn to Earn More</div>
+        <div class="card-meta">
+          📅 May 6, 2026
+          &bull; ⏱ 4 min read
+        </div>
+      </div>
+    </a>
+    
+    <a href="https://thetrendz216.github.io/posts/google-adsense-earnings/" class="post-card">
+      <div class="card-img cat-money">
+        📝
+      </div>
+      <div class="card-body">
+        
+        <div class="card-cat tag-money">Money</div>
+        
+        <div class="card-title">How Much Does Google AdSense Pay in 2026: Complete Earnings Guide</div>
+        <div class="card-meta">
+          📅 May 6, 2026
+          &bull; ⏱ 5 min read
+        </div>
+      </div>
+    </a>
+    
+    <a href="https://thetrendz216.github.io/posts/build-wealth-30s-2026/" class="post-card">
+      <div class="card-img cat-money">
+        📝
+      </div>
+      <div class="card-body">
+        
+        <div class="card-cat tag-money">Money</div>
+        
+        <div class="card-title">How to Build Wealth in Your 30s in 2026: The Complete Action Plan</div>
+        <div class="card-meta">
+          📅 May 6, 2026
+          &bull; ⏱ 4 min read
+        </div>
+      </div>
+    </a>
+    
+    <a href="https://thetrendz216.github.io/posts/make-money-pinterest-2026/" class="post-card">
+      <div class="card-img cat-money">
+        📝
+      </div>
+      <div class="card-body">
+        
+        <div class="card-cat tag-money">Money</div>
+        
+        <div class="card-title">How to Make Money on Pinterest in 2026: Complete Beginner Guide</div>
+        <div class="card-meta">
+          📅 May 6, 2026
+          &bull; ⏱ 5 min read
+        </div>
+      </div>
+    </a>
+    
+  </div>
+
+  <div style="text-align:center; margin: 30px 0 50px;">
+    <a href="/posts/" style="background: var(--primary); color: white; padding: 14px 40px; border-radius: 30px; text-decoration: none; font-weight: 700; font-size: 1rem; display: inline-block; transition: background 0.3s;">
+      View All Posts →
+    </a>
+  </div>
+
+</div>
+
     </main>
     
 <footer class="footer">
